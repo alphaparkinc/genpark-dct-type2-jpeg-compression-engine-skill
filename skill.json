@@ -1,0 +1,17 @@
+{
+  "name": "genpark-dct-type2-jpeg-compression-engine-skill",
+  "version": "1.0.0",
+  "description": "Discrete Cosine Transform Type-II (DCT-II) and Inverse DCT engine for spatial-to-frequency domain compression and JPEG energy compaction.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "dct",
+    "discrete-cosine-transform",
+    "jpeg-compression",
+    "image-processing",
+    "energy-compaction"
+  ],
+  "dependencies": []
+}
